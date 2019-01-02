@@ -16,7 +16,7 @@ skills: 2
 This is an example exercise.
 
 `@instructions`
-``python
+```python
 var = a + b;
 
 `@hint`
